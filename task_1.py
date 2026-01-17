@@ -18,24 +18,5 @@ for t in times_lst:
             num=int(part.replace('s',''))
             minutes += num/60
 
-
-
-#print(times_lst)
-
+ 
 print(minutes)
-
-#times_lst2 = times_lst1.split(' ')
-
-#for 
-
-#if 'h' in times_lit
-#m = h*60
-#if 's' in times_list
-#m = s/60
-
-
-
-#for time in all_times:
-
-
-#print(time_in_minutes)
